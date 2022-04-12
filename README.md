@@ -1,7 +1,7 @@
 # ReportsGenerator
 
 **Understanding the Elixir**
-**Consuming giant CSV file in parallel**
+**Consuming giant CSV file in parallel (studying)**
 
 ## Installation
 
